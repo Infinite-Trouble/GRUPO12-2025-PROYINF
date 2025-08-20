@@ -31,4 +31,4 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Infini
 _Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado_
 
 ##ÚLTIMA ACTUALIZACIÓN, QUE VAMOS EN EL HITO 1, PERO NO LLEVAMOS MUCHO
-* [Release hito-1] (https://github.com/Infinite-Trouble/GRUPO12-2025-PROYINF/releases/tag/hito-1)
+* [Release hito-1](https://github.com/Infinite-Trouble/GRUPO12-2025-PROYINF/releases/tag/hito-1)
