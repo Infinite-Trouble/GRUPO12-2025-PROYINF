@@ -7,7 +7,7 @@ Lo de ADS
 Este es el repositorio del Grupo 12, cuyos integrantes son:
 
 * Martin - Rol
-* Luis - Rol
+* Luis Soto R - 202304045-2
 * Lucas Roilar R - 202273058-7
 * Tomás Molina R - 202304067-3
 * **Tutor**: Fernanda
